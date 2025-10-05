@@ -1,7 +1,7 @@
 # Codacy
 **(0)** 
 Primero es lo Primero tienes que descargar el repo
-git clone https://github.com/Soul3vans/Codacy.git
+git clone (https://github.com/LEOB98-cmd/Codacy.git)
 
 **(1)**
 Luego tienes que crear un entorno virtual
